@@ -7,7 +7,9 @@ You can use it free.
 # Info
   Tested on python 3.7.6
   
-  I take the code from [here](https://www.youtube.com/watch?v=jBxRGcDmfWA) and i improve it.
+  I took the code from [here](https://www.youtube.com/watch?v=jBxRGcDmfWA) and i improved it.
+  
+  You need to create a file named "spam.txt" inside the directory of the script
   
 ## Libraries versions
   * Pyautogui : 0.9.52
