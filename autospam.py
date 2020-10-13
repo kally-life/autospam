@@ -4,6 +4,8 @@ import ctypes
 from time import sleep
 from pynput.keyboard import *
 
+# Buttons to start the script
+
 delay = 0.3
 resume_key = Key.f1
 pause_key = Key.f2
