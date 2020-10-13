@@ -9,9 +9,12 @@ You can use it free.
   
   I take the code from [here](https://www.youtube.com/watch?v=jBxRGcDmfWA) and i improve it.
   
+## Libraries versions
+  * Pyautogui : 0.9.52
+  * Pynput : 1.7.1
+  
 # Install the libraries
 ```
 pip install pyautogui
-pip install time
 pip install pynput
 ```
