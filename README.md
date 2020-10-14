@@ -1,8 +1,9 @@
 # Autospam
 
 This is a test for learning python.
-
 You can use it free.
+______________________
+To start spam press F1,for pause press F2 and to stop spam press ESC
 
 # Info
   Tested on python 3.7.6
